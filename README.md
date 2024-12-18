@@ -6,7 +6,7 @@ This project analyzes and predicts COVID-19 death rates across countries using l
 
 ## Data Sources
 
-1. **COVID-19 Dataset**: Extracted from [Our World in Data](https://github.com/owid/covid-19-data).
+1. **COVID-19 Dataset**: Extracted from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
    - Contains COVID-19 cases, deaths, vaccinations, hospitalizations, and other metrics.
 
 2. **Population Data**: Extracted from the [World Bank DataBank](https://databank.worldbank.org/source/population-estimates-and-projections).
